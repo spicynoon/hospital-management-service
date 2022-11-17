@@ -1,4 +1,4 @@
-package semester_1;
+package sebelumUTS;
 
 import java.util.Scanner;
 
