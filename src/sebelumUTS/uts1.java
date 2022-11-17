@@ -38,7 +38,7 @@ class Main {
         } else if (pilihan == 2) {
             goblin.sounds();
         } else {
-            System.out.println("pilihan tidak tersedia");
+            System.out.println("pilihan tidak tersedia ..");
         }
     }
 }

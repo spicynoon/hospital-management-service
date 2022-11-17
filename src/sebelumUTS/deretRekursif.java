@@ -21,7 +21,7 @@ public class deretRekursif {
                 "TUGAS ALSTRUKDAT PERTEMUAN 5" +
                         "\n SOAL NO. 2" +
                         "\n S = 1+2+3+..+n" +
-                        "\n=============================");
+                        "\n============================");
         System.out.print("input jumlah deret: ");
         int hasil = deret(1, scan.nextInt());
         System.out.println(hasil);

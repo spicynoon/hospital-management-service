@@ -10,7 +10,7 @@ public class stackLL {
         boolean run = true;
 
         while (run) {
-            System.out.println("======================================================");
+            System.out.println("=====================================================");
             System.out.print(
                     "1. push\n" +
                             "2. pop\n" +

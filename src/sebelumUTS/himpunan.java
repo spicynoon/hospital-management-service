@@ -20,7 +20,7 @@ public class himpunan {
                 "TUGAS ALSTRUKDAT PERTEMUAN 5" +
                         "\n SOAL NO. 1" +
                         "\n f(n) + f(n+1) = 2n^2" +
-                        "\n=============================");
+                        "\n============================");
 
         System.out.print("input n   : ");
         int hasil = fx(scan.nextInt());

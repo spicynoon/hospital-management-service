@@ -36,7 +36,7 @@ public class uts2 {
         } else if (nilaiMahasiswa < 100) {
             System.out.println("HURUF MUTU  : A");
         } else if (nilaiMahasiswa < 0 || nilaiMahasiswa > 100) {
-            System.out.println("perhatikan nilai yang anda input");
+            System.out.println("perhatikan nilai yang anda input ..");
         }
     }
 }

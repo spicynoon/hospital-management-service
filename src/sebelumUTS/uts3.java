@@ -17,7 +17,7 @@ public class uts3<T> {
         System.out.println("==================================");
 
         for (int i = 1; i <= jumlahData; i++) {
-            System.out.print("daftar nama ke-" + i + " : ");
+            System.out.print("daftar nama ke-" + i + ": ");
             antrianTA.enqueue(input.next());
         }
 
